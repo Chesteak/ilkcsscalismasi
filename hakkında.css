@@ -1,0 +1,19 @@
+/*----------------------------------------Başlıklar-----------------------*/
+h1 {
+    color:red;
+    font-size:60px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(216, 56, 131);
+    font-size:42px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(233, 122, 32);
+    font-size:23x;
+    text-align: left;
+}
+
